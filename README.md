@@ -23,3 +23,6 @@ DAX (Data Analysis Expressions) for calculated measures
 Data modeling for structured analysis
 
 Excel/CSV as the data source
+
+![image](https://github.com/user-attachments/assets/7d0a612f-15cc-477e-81fb-22324606dec5)
+
