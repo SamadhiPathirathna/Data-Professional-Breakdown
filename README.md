@@ -16,11 +16,11 @@ Built to practice real-world BI skills: data modeling, DAX calculations, and des
 
 ## ✨ Features
 
-- 📌 Career transition analysis — who switches into data roles and from where
-- 💰 Salary breakdowns by job title, region, and experience level
-- 😊 Job satisfaction and work-life balance ratings across roles
-- 🔢 Dynamic filters and slicers for drill-down exploration
-- 📈 Bar charts, line charts, donut charts, and KPI cards
+📌 Career transition analysis — who switches into data roles and from where
+💰 Salary breakdowns by job title, region, and experience level
+😊 Job satisfaction and work-life balance ratings across roles
+🔢 Dynamic filters and slicers for drill-down exploration
+📈 Bar charts, line charts, donut charts, and KPI cards
 
 ---
 
