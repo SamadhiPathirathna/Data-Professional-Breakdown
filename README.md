@@ -10,7 +10,7 @@ An interactive Power BI dashboard analyzing career transitions, salary trends, a
 
 This dashboard explores how professionals enter and transition into data-related roles — uncovering patterns in salary, demographics, job satisfaction, and career paths across different regions and experience levels.
 
-Built to practice real-world BI skills: data modeling, DAX calculations, and designing dashboards that tell a clear story without overwhelming the viewer.
+Built to practice real-world BI skills: data modeling, DAX calculations, and designing dashboards that tell a clear story.
 
 ---
 
